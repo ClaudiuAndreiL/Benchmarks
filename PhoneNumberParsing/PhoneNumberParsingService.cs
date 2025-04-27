@@ -23,7 +23,7 @@ namespace Benchmarks.PhoneNumberParsing
             {
                 Msisdn = msisdn,
                 NormalizedMsisdn = normalizedMsisdn,
-                CountryIso2 = regionCode,
+                CountryCode = regionCode,
                 IsValid = isValid
             };
         }
